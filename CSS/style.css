@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.contenedor1 {
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+
+.contenedor1 h1 {
+    color: rgba(106, 185, 185, 0.815);
+}
+.contenedor1 {
+    background-image: url('/Imagenes/Imagen1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 80px;
+    height: 80px;
+}
+
+.contenedor2 {
+
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+
+.contenedor2 b {
+    color: red;
+    border: 1px black solid;
+}
+.contenedor2 {
+    background-image: url('/Imagenes/Imagenes5.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 80px;
+    height: 80px;
+}
+
+.contenedor3 {
+
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+.contenedor3 h2 {
+    color: blue;
+}
+.contenedor3 {
+    background-image: url('/Imagenes/Libros.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 80px;
+    height: 80px;
+}
+
+.contenedor4 {
+
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+
+
+.contenedor4 b {
+    color: red;
+    border: 1px black solid;
+}
+
+.contenedor4 em {
+    color: blue;
+}
+
+.contenedor4 span {
+    color: blueviolet;
+}
+.contenedor4 {
+    background-image: url('/Imagenes/imagen6.jfif');
+    background-repeat: no-repeat;
+    background-size: 100% 80px;
+    height: 80px;
+}
+#p1 {
+    color: blue;
+}
+
+
+#p2 {
+    color: magenta;
+    border: 1px black solid;
+}
+
+
+
+
+.title_tabla {
+    color: blue;
+}
+
+
+table {
+background-color: rgba(128, 255, 0, 0.393);
+    border-collapse: collapse;
+    text-align: center;
+    margin: 10px 60% 10px 10px;
+}
+
+
+table td {
+    color: rgb(19, 202, 19);
+}
+
+
+.tit_tabla_oran {
+    color: orange;
+}
+
+
+.tit_tabla_red {
+    color: red;
+}
+
+
+#p3 {
+    border: 1px black solid;
+}
+
+
+#p4 {
+    border: 1px black solid;
+    color: orange;
+}
+
+
+.contenedor6,
+.contenedor7,
+.contenedor8 {
+
+    border: 1px black solid;
+    margin: 10px 30% 10px 10px;
+    padding: 10px;
+}
+.contenedor6,
+.contenedor7,
+.contenedor8 {
+    background-image: url('/Imagenes/historia-psicologia.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 80px;
+    height: 80px;
+}
+
+.contenedor6,
+.contenedor7,
+.contenedor8 p {
+    color: #af9151f2;
+}
+
+
+#p6 {
+    border: 1px black solid;
+}
+
+
+#p7 {
+    border: 1px black solid;
+    color: magenta;
+}
+
+
+#p8 {
+    border: 1px black solid;
+    color: green;
+}
